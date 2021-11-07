@@ -1,6 +1,6 @@
 # Quiz-App
 
-It ia a open-source project. I created a quiz app which checks your programming skills like Java, C++ and Python. The quiz consists of 10 questions without any time constraint.
+It's an quiz app which checks your programming skills like Java, C++ and Python. The quiz consists of 10 questions without any time constraint.
 The app consists of 3 layouts - first is the main screen asking for your name and let you choose a language, next is the quiz page consisting of different questions and the last one is the result page that shows your score.
  
 # Technology Used
